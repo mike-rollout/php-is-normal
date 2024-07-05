@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace;
+namespace Rollout\Normal;
 
 class IsNormal {
     public static function getMotivationalQuote() {
