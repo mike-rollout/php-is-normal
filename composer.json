@@ -1,0 +1,20 @@
+{
+    "name": "rollout/am-i-normal",
+    "description": "\"Tells you if you are normal",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rollout\\AmINormal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mike-rollout"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
